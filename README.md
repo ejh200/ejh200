@@ -1,1 +1,1 @@
-# ejh200
+## Hey 👋, I'm [Jungyun EOM!](https://github.com/ejh200/)
